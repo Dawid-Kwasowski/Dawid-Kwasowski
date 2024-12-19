@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![image](https://github.com/user-attachments/assets/f901768a-d6de-403d-81e6-0f222dcece4f)
 
 
