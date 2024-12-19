@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning the Nuxt Framework to make full-stack web apps and websites with confidence.
+- 🎯 My next target to learn will be earn more knowledge about mobile technologies.
+- 📫 How to reach me: dawidkwasowski@gmail.com  
 <!--
 **Dawid-Kwasowski/Dawid-Kwasowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
