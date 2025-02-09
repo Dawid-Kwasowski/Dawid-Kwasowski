@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/f901768a-d6de-403d-81e6-0f222dcece4f)
+![image](https://github.com/user-attachments/assets/c7ce1bc1-513c-4022-934b-34c934cfc327)
+
 - 🌱 I’m currently learning the Nuxt Framework to make full-stack web apps and websites with confidence.
 - 🎯 My next target to learn will be earn more knowledge about mobile technologies.
 - 📫 How to reach me: dawidkwasowski@gmail.com  
