@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/c7ce1bc1-513c-4022-934b-34c934cfc327)
+![image](https://github.com/user-attachments/assets/771a5235-4763-4b28-8997-e30e66cd2572)
+
 
 - 🌱 I’m currently learning the Nuxt Framework to make full-stack web apps and websites with confidence.
 - 🎯 My next target to learn will be earn more knowledge about mobile technologies.
